@@ -1,0 +1,84 @@
+#shadow{
+    box-shadow: 1px 2px 5px #d9d9d9;/* #AAAAAA;*/
+    display : inline-block ;
+}
+p.h1_right_panel{
+    font-family: Arial;
+    font-size: 30px;
+    color: rgba(0,0,0,0.87);
+}
+p.h2_right_panel{
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 22px;
+    color: #222222;
+}
+
+p.inscription_right_panel{
+    font-family: Arial;
+    font-size: 13px;
+    color: #777777;
+    align-content: right;
+}
+
+p.text_right_panel{
+    font-family: Arial;
+    font-size: 13px;
+    line-height: 16px;
+    color: #222222;
+}
+
+p.more_right_panel {
+    font-family: Arial;
+    font-size: 16px;
+    color: #777777;
+    padding-left: 30%;
+}
+p.review{
+    font-family: Arial;
+    font-size: 11px;
+    font-style: italic;
+    color: #777777;
+    padding-left: 70%;
+}
+
+#size48px{
+    padding-top: 14px;
+}
+
+.head_news{
+    font-family: Arial;
+    font-size: 16px;
+    position: relative;
+    margin-bottom: 10%;
+    padding-left: 0%;
+    padding-right:5%
+
+}
+.source_news{
+    font-family: Arial;
+    position: relative;
+    margin: auto;
+    top:0;
+    font-size: 13px;
+    padding-left: 0%;
+    padding-right:5%
+}
+p.green_link{
+    font-family: Arial;
+    font-size: 14px;
+    color: #006621;
+    margin-top:-2%;
+}
+
+p.text_descriotion{
+    font-family: Arial;
+    font-size: 13px;
+    line-height: 18px;
+    color: #545454;
+    margin-top:-2%;
+}
+container{
+    display: inline-block;
+    position: absolute;
+}
